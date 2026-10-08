@@ -1,0 +1,7 @@
+# Simulator artifacts
+*.vvp
+*.vcd
+*.log
+
+# Extracted tool binaries
+tools/
